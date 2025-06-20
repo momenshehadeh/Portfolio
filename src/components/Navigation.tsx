@@ -15,7 +15,7 @@ const navItems: NavItem[] = [
   {
     label: 'CV',
     icon: <FileText size={20} />,
-    href: 'https://drive.google.com/file/d/1060HoOxeLTDdSdObddbxv7XzCu5S915N/view?usp=sharing'
+    href: 'https://drive.google.com/file/d/14Pvf_c4lKed7bH6VsuPS90UPwYEUG2D5/view?usp=sharing'
   },
 ];
 
