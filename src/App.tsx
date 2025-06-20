@@ -30,7 +30,7 @@ function App() {
                 sequence={[
                   "Frontend Developer.",
                   1000,
-                  "Cyber Security.",
+                  "Backend Developer.",
                   1000,
                 ]}
                 wrapper="span"
