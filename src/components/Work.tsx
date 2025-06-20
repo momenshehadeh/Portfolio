@@ -87,6 +87,14 @@ export default function Work() {
       githubLink: "https://github.com/momenshehadeh/RecipePage.git",
       technologies: ["HTML", "CSS"],
     },
+    {
+      title: "Mosthlk page",
+      description: "Mosthlk is an online store that provides you with an easy and secure online shopping experience.",
+      image: "/img/RecipePage.jpeg",
+      demoLink: "https://mosthlk.vercel.app/",
+      githubLink: "https://github.com/momenshehadeh/Mosthlk.git",
+      technologies: ["HTML", "CSS","JAVASCRIPT","REACT"],
+    },
   ];
 
   return (
