@@ -8,7 +8,7 @@ interface NavItem {
 }
 
 const navItems: NavItem[] = [
-  { label: 'Home', icon: <Home size={20} />, href: '#' },
+  { label: 'Home', icon: <Home size={20} />, href: '#Home' },
   { label: 'About', icon: <User size={20} />, href: '#about' },
   { label: 'Work', icon: <Briefcase size={20} />, href: '#work' },
   { label: 'Contact', icon: <Mail size={20} />, href: '#contact' },
